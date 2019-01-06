@@ -1,3 +1,4 @@
+# Monetary Choreography
 
 In C2.20.5.3 Marx overspecifies the dance of monetary movements for commodity exchange as two particular fully ordered circuits A and B.
 
@@ -21,6 +22,8 @@ Perhaps constraint solver.
 
 Perhaps animated UML sequence diagrams implementing Acivity Diagram constraints.
 
+Business Process Models have diagrams for specifying the protocol constraints for a series of coordinated steps in a business collaboration such as an exchange ie purchase and sale.
+
 http://pcgbook.com/supplementary-material/
 from 7-planningstoryslides.pdf 23/60
 
@@ -37,6 +40,6 @@ from 7-planningstoryslides.pdf 23/60
 
 •  Example goal: purchasing milk and bread in a grocery store
 
-   –  A total-order plan: a)topurchase milk first and to purchase bread, andb)topurchase bread first and to purchase milk.
+   –  A total-order plan: a) to purchase milk first and to purchase bread, and b) to purchase bread first and to purchase milk.
  
    –  A partial-order plan does not specify the ordering constraint and defers the decision until when it is necessary.
