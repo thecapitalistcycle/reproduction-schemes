@@ -15,7 +15,7 @@ https://calibre-ebook.com
 
 ## C0 "Outlines of the Critique of Political Economy"
 
-### C0-0 "Introduction"
+### C0.0 "Introduction"
 
 MECW 28 pp 11-48 below. Usually published together with C1-1 below. Should be read first, while leaving rest of C0 until later.
 
@@ -71,9 +71,9 @@ Second Instalment plus extras: MECW 29
 
 ## C1 Capital Volume 1
 
-### C1-0
+### C1-0 "A Contribution to the Critique of Political Economy. Part One"
 
-Edition 0, "A Contribution to the Critique of Political Economy. Part One" pp 257-417 in MECW 29 above. Indexed as part of same volume.
+Edition 0,  pp 257-417 in MECW 29 above. Indexed as part of same volume.
 
 ### C1 Capital Volume 1
 
@@ -81,9 +81,9 @@ The work generally known as "Capital" is the (German) edition 4 of Volume 1. As 
 
 All 4 editions are clearly identified as a continuation of C1-0 which identifies itself as the first part of C1.
 
-C1-1 is the first edition, which has some material omitted from C1.
+**C1-1** is the first edition, which has some material omitted from C1.
 
-C1-F is the 1872 French translation of edition 1, supervised by Marx and regarded by him as of independent value. Many but not all of the corrections by Marx were included in C1-4. At least one that was missed has been included as a footnote in the Penguin edition below.
+**C1-F** is the 1872 French translation of edition 1, supervised by Marx and regarded by him as of independent value. Many but not all of the corrections by Marx were included in C1-4. At least one that was missed has been included as a footnote in the Penguin edition below.
 
 This article argues that a translation of missing bits from French to English is needed:
 https://www.kevin-anderson.com/wp-content/uploads/docs/anderson-article-unkown-marx-capital.pdf
@@ -102,19 +102,24 @@ https://www.kevin-anderson.com/wp-content/uploads/docs/anderson-article-unkown-m
    url =       {http://gen.lib.rus.ec/book/index.php?md5=3a7c252a6e89cc23a1ebc955b6e22ffa}
 }
 
-An Appendix on "The Value-Form" is listed in the ToC at marxists.org
+Full ToC of Moscow edition at marxists.org includes C1-1A below although not actually in original.
 
 https://www.marxists.org/archive/marx/works/1867-c1/index-l.htm
 
+### C1-1A "The Value Form" Appendix to the 1st German edition of Capital, Volume 1, 1867
+
 https://www.marxists.org/archive/marx/works/1867-c1/appendix.htm
 
-https://www.marxists.org/archive/marx/works/1867-c1/commodity.htm
 
 Not listed, but linked from the appendix is the original chapter from (german) edition 1 that this was an appendix to:
 
+### C1-1.1 "The Commodity"
+
+https://www.marxists.org/archive/marx/works/1867-c1/commodity.htm
+
 The Penguin edition does not have either of these, but has:
 
-"Appendix: Results of the Immediate Process of Production"
+### C1A "Appendix: Results of the Immediate Process of Production"
 
 All 3 plus C1-0 should be listed as part of C1.
 
