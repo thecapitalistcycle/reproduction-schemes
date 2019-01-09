@@ -70,3 +70,29 @@ Karl Marx-Capital, Vol. 3-Penguin Books (1992).epub
 **ToDo** Find online copies of each of the three parts of Theories of Surplus Value that include a general index.
 
 My recollection is that marxists.org did not include the index so will need to extract from pdf of Moscow editions (Progress Press, FLPH etc)
+
+Meanwhile, this does have all 3 parts (1173 pages) but appears to be from marxists.org with no indexes although it does have footnotes and is adequate for everything except the indexes.
+
+Karl Marx-Theories of Surplus Value. 1-3-Progress Publishers (1968).pdf
+
+@book{book:1298850,
+   title =     {Theories of Surplus Value},
+   author =    {Karl Marx},
+   publisher = {Progress Publishers},
+   isbn =      {},
+   year =      {1968},
+   series =    {},
+   edition =   {},
+   volume =    {1-3},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=e3c8f76aa25143b7110cc745e2ec3260}
+}
+
+Hmmm **DONE**
+
+http://www.marx2mao.com/M&E/Index.html
+
+Has all 3 (under 1862-63)
+
+Part 3 has subject index for all 3 parts.
+
+Now just need to extract text from pdf and convert the index from part 3.
