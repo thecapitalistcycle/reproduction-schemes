@@ -49,7 +49,7 @@ Karl Marx and Friedrich Engels-Marx-Engels Collected Works,Volume 28 - Marx_ 185
    series =    {},
    edition =   {},
    volume =    {},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=a195f1d083ecdeae3338bbb704e4707c}
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=a195f1d083ecdeae3338bbb704e4707c }
 }
 
 Second Instalment plus extras: MECW 29
@@ -65,7 +65,7 @@ Second Instalment plus extras: MECW 29
    series =    {Karl Marx and Frederick Engels. Collected Works 29},
    edition =   {},
    volume =    {},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=89806C8388AB30283211C08DB1F6DF54}
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=89806C8388AB30283211C08DB1F6DF54 }
 }
 
 
@@ -99,7 +99,7 @@ https://www.kevin-anderson.com/wp-content/uploads/docs/anderson-article-unkown-m
    series =    {Penguin Classics},
    edition =   {new},
    volume =    {1},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=3a7c252a6e89cc23a1ebc955b6e22ffa}
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=3a7c252a6e89cc23a1ebc955b6e22ffa }
 }
 
 Full ToC of Moscow edition at marxists.org includes C1-1A below although not actually in original.
@@ -136,7 +136,7 @@ Karl Marx-Capital, Vol. 2-Penguin Books (1992).epub
    series =    {},
    edition =   {},
    volume =    {},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=85ff16e4e0442ecd0b2ba0206a560243}
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=85ff16e4e0442ecd0b2ba0206a560243 }
 }
 
 ## C3
@@ -152,7 +152,7 @@ Karl Marx-Capital, Vol. 3-Penguin Books (1992).epub
    series =    {},
    edition =   {},
    volume =    {},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=f36525f876b14ffa7d31077b1fdf05e0}
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=f36525f876b14ffa7d31077b1fdf05e0 }
 }
 
 ## C4 Theories of Surplus Value (parts 1-3)
@@ -171,7 +171,7 @@ Karl Marx-Theories of Surplus Value. 1-3-Progress Publishers (1968).pdf
    series =    {},
    edition =   {},
    volume =    {1-3},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=e3c8f76aa25143b7110cc745e2ec3260}
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=e3c8f76aa25143b7110cc745e2ec3260 }
 }
 
 This page has links to better original copies for all three parts:
