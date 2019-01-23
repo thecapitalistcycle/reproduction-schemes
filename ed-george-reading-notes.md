@@ -82,15 +82,15 @@ To get to that point I believe it will be necessary to go beyond what Marx elabo
 
 2. Credit as well as gold commodity money.
 
-3. Prices moving with imbalances in stocks when there are imbalances between demand and supply flows.
+3. Prices potentially moving with imbalances in stocks if there were imbalances between demand and supply flows.
 
 4. Physical as well as monetary quantities.
 
-5. Multiple technologies.
+5. Multiple technologies (just linear input-output activities should do).
 
 6. Depreciation of fixed capital dominated by technological obsolescence.
 
-7. Minimum scale for each technology.
+7. Minimum scale for each technology (affine facets in linear programming).
 
 8. Demand for labor power dominated by competition with automation.
 
@@ -102,9 +102,15 @@ To get to that point I believe it will be necessary to go beyond what Marx elabo
 
 12. Gestation delays for accumulation in "heavy" industry.
 
-Above implies sublating the "transformation problem" and sets the stage for Maksakovsky's treatment of actual cyclical growth. But still within the C2 framework of imaginary "equilibrium", single closed economy (no imports and exports) and no state.
+Above implies sublating the "transformation problem" and sets the stage for Maksakovsky's treatment of actual cyclical growth. But still within the C2 framework of imaginary "equilibrium", and "pure capitalism" (without even spatial distribution or land, not just excluding rent, landlords and pre-capitalist relations in agriculture), Single closed economy (no imports and exports and no states - those would first require spatial territories). No social changes.
 
-Although it sounds ambitious the work for all this has already been done by Marx. Harder part is extending it to emerging new technologies instead of just multiple technologies, multiple states in a world market, concentration and centralization of capital, changing organization of production and changes in mentality of each class. None of the hard aspects are listed above as they are for work after having got an audience for what should have been understood nearly a century ago.
+In principle the modern capitalist cycle only begins as Marx explains with the world market as well as dominant role for fixed capital and then becomes inevitable.
+
+But it should be possible to model a fictitious "equilibrium" growth for a fixed (large) set of technologies until saturation, for either a capitalist or post-capitalist economy continuing where Marx left off in C2 while still remaining in the abstract pure theory rather than attempting to describe more concretely as in C3.
+
+First stage would lead up to Maksakovsky by switching item 3 from potential to actual price changes with merely fluctuating rather than cyclic growth when not dominated by fixed capital with gestation delays. Then adding item 12 for gestation delays should produce cycles in a market economy, but not in a planned economy.
+
+Although it sounds ambitious the hardest work for all this has already been done by Marx. Harder part is extending it to emerging new technologies and skills etc instead of just multiple technologies and hoogenous workers, multiple states in a world market, concentration and centralization of capital, changing organization of production and changes in mentality of each class. None of the hard aspects are listed above as they are for work after having got an audience for what should have been understood nearly a century ago.
 
 ## Citations
 
