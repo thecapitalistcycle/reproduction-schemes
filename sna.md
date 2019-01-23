@@ -1,4 +1,7 @@
-Input Output Tables
+# System of National Accounts - SNA
+
+## Input Output Tables
+
 Badly designed web site has lots of information. Click their show menu button fo tind it.
 
 https://www.iioa.org
@@ -6,6 +9,10 @@ https://www.iioa.org
 Shorter explanation in UN SNA 2008:
 
 https://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf
+
+Draft also available as online html. Get for extracts:
+
+https://synagonism.net/standard/economy/un.sna.2008.html
 
 Chapter 14: The supply and use tables and goods and services account
 
@@ -41,7 +48,7 @@ https://unstats.un.org/unsd/nationalaccount/pubsDB.asp?pType=4
 
 Longer details in 2018 UN handbook below.
 
-Handbook on Supply, Use and Input-Output Tables with Extensions and Applications
+## Handbook on Supply, Use and Input-Output Tables with Extensions and Applications
 
 Here is a properly bookmarked 628 page, 7.3MB pdf of the final draft:
 ST/ESA/STAT/SER.F/74/Rev.1
@@ -60,6 +67,8 @@ https://ec.europa.eu/eurostat/web/esa-supply-use-input-tables/publications
 After two pages for front cover and copyright the page numbers are i to xiv and 1-612, total 628.
 
 Ignore other links to larger files with less descriptive file names.
+
+Need to explain summary at pp22-23, pdf 38-39/628
 
 SNA 2008
 Has live links to related documents. Intention to add more, both from these to others and back. (Preface xlvii)
