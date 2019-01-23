@@ -74,3 +74,39 @@ SNA 2008
 Has live links to related documents. Intention to add more, both from these to others and back. (Preface xlvii)
 
 Downloadable spreadsheet.
+
+## Anwar Shaikh
+
+Connect to analysis of SNA in:
+
+Anwar M. Shaikh, E. Ahmet Tonak-Measuring the Wealth of Nations_ The Political Economy of National Accounts (1996).pdf
+
+@book{book:406655,
+   title =     {Measuring the Wealth of Nations: The Political Economy of National Accounts},
+   author =    {Anwar M. Shaikh, E. Ahmet Tonak},
+   publisher = {},
+   isbn =      {0521564794,9780521564793},
+   year =      {1996},
+   series =    {},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=7F681B61F943A529B3F2B75927ABE59D }
+}
+
+Also to notation in:
+
+Anwar Shaikh-Capitalism_ Competition, Conflict, Crises-Oxford University Press (2016).pdf
+
+@book{book:1502589,
+   title =     {Capitalism: Competition, Conflict, Crises},
+   author =    {Anwar Shaikh},
+   publisher = {Oxford University Press},
+   isbn =      {0199390630, 978-0199390632},
+   year =      {2016},
+   series =    {},
+   edition =   {1st},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=dd0b27231f6e7cabef184b616a59dafe }
+}
+
+
