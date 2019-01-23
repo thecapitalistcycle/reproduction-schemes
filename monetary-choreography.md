@@ -43,3 +43,19 @@ from 7-planningstoryslides.pdf 23/60
    –  A total-order plan: a) to purchase milk first and to purchase bread, and b) to purchase bread first and to purchase milk.
  
    –  A partial-order plan does not specify the ordering constraint and defers the decision until when it is necessary.
+
+## Stocks and Flows
+
+Difficulty is related to confusion concerning stocks, flows and turnover.
+
+Earlier chapters of C2 go into this thoroughly.
+
+But.20 is mainly simplified to discuss only flows (annual turnover).
+
+Introduction of fixed capital in .20.11 and .21 requires separation of stocks (EGRN C2.20 part 3 and C2.21).
+
+The monetary choreography also needs starting and ending stocks of cash (which can be zero), equalized by the two monetary circuits A and B.
+
+Introducing stocks also connects with "Consumption of Fixed Capital", "Revaluation", "Gross Fixed Capital Formation" and "Changes in Inventory" in SNA.
+
+Yamaguchi System Dynamics diagrams could be helpful.
