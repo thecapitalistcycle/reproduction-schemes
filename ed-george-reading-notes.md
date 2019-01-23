@@ -100,7 +100,11 @@ To get to that point I believe it will be necessary to go beyond what Marx elabo
 
 11. Accumulation without an increase in labor force by moving to less labor intensive technologies as rate of profit declines.
 
-Above implies sublating the "transformation problem" and sets the stage for Maksakovsky's treatment of actual cyclical growth.
+12. Gestation delays for accumulation in "heavy" industry.
+
+Above implies sublating the "transformation problem" and sets the stage for Maksakovsky's treatment of actual cyclical growth. But still within the C2 framework of imaginary "equilibrium", single closed economy (no imports and exports) and no state.
+
+Although it sounds ambitious the work for all this has already been done by Marx. Harder part is extending it to emerging new technologies instead of just multiple technologies, multiple states in a world market, concentration and centralization of capital, changing organization of production and changes in mentality of each class. None of the hard aspects are listed above as they are for work after having got an audience for what should have been understood nearly a century ago.
 
 ## Citations
 
