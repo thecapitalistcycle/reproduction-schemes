@@ -23,7 +23,7 @@ tions parallel with the process of production. However co-existence,
 by which continuity of production is determined, is only due to the
 movement of those parts of capital in which they successively pass
 through their different stages. Co-existence is itself merely the result
-of succession. If for instance C—M' stagnates as far as one part is con-
+of succession. If for instance C'—M' stagnates as far as one part is con-
 cerned, if the commodity cannot be sold, then the circuit of this part
 is interrupted and no replacement by its means of production takes
 place; the succeeding parts, which emerge from the process of produc-
