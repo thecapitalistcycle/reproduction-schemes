@@ -33,6 +33,7 @@ and the entire process brought to a halt. Every stagnation in succes-
 sion carries disorder into co-existence, every stagnation in one stage
 causes more or less stagnation in the entire circuit of not only the
 stagnant part of the capital but also of the total individual capital.
+
 The next form in which the process presents itself is that of a succes-
 sion of phases, so that the transition of capital into a new phase is
 made necessary by its departure from another. Every separate circuit
@@ -69,10 +70,12 @@ some other form. Every part describes continuously its own cycle, but
 it is always another part of capital which exists in this form, and these
 special cycles form only simultaneous and successive elements of the
 aggregate process.
+
 The continuity — instead of the above-described interruption — of
 the aggregate process is achieved only in the unity of the three cir-
 cuits. The aggregate social capital always has this continuity and its
 process always exhibits the unity of the three circuits.
+
 The continuity of the reproduction is at times more or less interrupt-
 ed so far as individual capitals are concerned. In the first place the
 masses of value are frequently distributed at various periods in un-
@@ -123,6 +126,7 @@ threatens the existence of the individual capitals. These periodical rev-
 olutions in value therefore corroborate what they are supposed to re-
 fute, namely, that value as capital acquires independent existence,
 which it maintains and accentuates through its movement.
+
 This succession of the metamorphoses of capital in process includes
 continuous comparison of the change in the magnitude of value of the
 capital brought about in the circuit with the original value. If value's
@@ -136,4 +140,4 @@ and the former magnitude of value is compared with capital's present
 changed magnitude of value.
 
 ---
-C2.4 MECW 183.1
+C2.4 MECW34 108.1-111.1
