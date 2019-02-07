@@ -1,5 +1,7 @@
 # History of National Accounting
 
+## The circulation of capital: essays on volume two of Marx's 'Capital' 
+
 Introduction includes sketch of origins of modern national accounting and macroeconomics from Marx's reproduction schemes.
 
 Also rest of book needs careful study.
@@ -27,7 +29,8 @@ II. Reuten, G. A.
 CIP
 Selection, editorial matter and Chapter I © Christopher J. Arthur and Geert Reuten 1998
 
-## General Introduction - Chapter 1
+### General Introduction - Chapter 1
+
 ...
 
 It is worth noting that Book II comprises Marx's final thoughts on
@@ -38,7 +41,7 @@ account when evaluating Book 111.8
 
 ...
 
-### INFLUENCE OF CAPITAL II
+#### INFLUENCE OF CAPITAL II
 
 Some comments on the influence of Book II on Marxian and ortho-
 dox economic theory would be appropriate here. However, as the
@@ -70,7 +73,7 @@ and the list of references in the notes is not meant to be exhaustive.)
 
 ...
 
-### Notes
+#### Notes
 
 ...
 
@@ -106,7 +109,7 @@ tent in its definitions is not true. The second quotation in Mandel's
 note 43 is in truth a gloss on Smith's 'second definition', namely the
 one under attack by Marx.
 
-### References
+#### References
 
 Note: All years in brackets are the original dates of publication as referred to
 in text; editions quoted from may differ and are provided where appropriate.
@@ -202,3 +205,74 @@ London.
 Stone, Richard & Giovanna Stone (1961) National Income and Expenditure,
 2nd edn 1977, Bowes, London.
 
+## References mentioned above
+
+## Other References
+
+@article{article,
+author = {Bos, Frits},
+year = {1992},
+month = {01},
+pages = {},
+title = {The History of National Accounting},
+journal = {University Library of Munich, Germany, MPRA Paper},
+doi = {10.2139/ssrn.1032598 }
+}
+
+https://en.m.wikipedia.org/wiki/Richard_Stone
+
+(The Commonwealth and international library. Social administration, training economics and production division) Carleen O'Loughlin, R Brown, G. Chandler and W. A. Davis (Auth.)-National Economic Accou.pdf
+
+@book{book:1198331,
+   title =     {National Economic Accounting},
+   author =    {Carleen O'Loughlin, R Brown, G. Chandler and W. A. Davis (Auth.)},
+   publisher = {Elsevier Ltd, Pergamon Press},
+   isbn =      {978-0-08-016395-6,0080163955},
+   year =      {1971},
+   series =    {The Commonwealth and international library. Social administration, training economics and production division},
+   edition =   {1st},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=25b3c7843413a218df30d89f152b8c30 }
+}
+
+Ronald Cooper, Profesor Harold C Edey, Harold C. Edey, Professor Sir Alan T Peacock, Alan T. Peacock-National Income and Social Accounting-Routledge (2003).pdf
+
+@book{book:1204197,
+   title =     {National Income and Social Accounting},
+   author =    {Ronald Cooper, Profesor Harold C Edey, Harold C. Edey, Professor Sir Alan T Peacock, Alan T. Peacock},
+   publisher = {Routledge},
+   isbn =      {0415314062,9780415314060},
+   year =      {2003},
+   series =    {},
+   edition =   {Reprint},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=331f414cbb832c1b837db91e2bb9c23e }
+}
+
+(Studies in methods. Series F (United Nations) 113_ ST_ESA_STAT_SER.F 113_ Handbook on national accounting (United Nations)) OECD-Financial production, flows and stocks in the System of National Accou.pdf
+
+@book{book:2142162,
+   title =     {Financial production, flows and stocks in the System of National Accounts},
+   author =    {OECD},
+   publisher = {United Nations},
+   isbn =      {9789211615753,9211615755},
+   year =      {2015},
+   series =    {Studies in methods. Series F (United Nations) 113; ST/ESA/STAT/SER.F 113; Handbook on national accounting (United Nations)},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=a2e4575ec0741dafae099bcd1ab8aa77 }
+} Download is actually "System of Environmental-Economic Accounting 2012"
+
+A. Vanoli-A History of National Accounting-IOS Press (2005).pdf
+
+@book{book:1553532,
+   title =     {A History of National Accounting},
+   author =    {A. Vanoli},
+   publisher = {IOS Press},
+   isbn =      {1586034693,9781586034696},
+   year =      {2005},
+   series =    {},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=1f6b51d2aead24e8e906a23193cd0331 }
+}
