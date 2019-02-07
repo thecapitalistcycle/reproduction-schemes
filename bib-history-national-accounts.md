@@ -207,6 +207,16 @@ Stone, Richard & Giovanna Stone (1961) National Income and Expenditure,
 
 ## References mentioned above
 
+@book{jasny1962soviet,
+  title={The Soviet balance of national income and the American input-output analysis},
+  author={Jasny, Naum},
+  year={1962},
+  publisher={Editrice L'industria Milano}
+} (Not seen but perhaps covered by Soviet Studies below)
+
+
+Richard Stone and Giovanna Saffi Stone, National Income and Expenditure (1961). (Not seen)
+
 ## Other References
 
 @article{article,
@@ -219,7 +229,25 @@ journal = {University Library of Munich, Germany, MPRA Paper},
 doi = {10.2139/ssrn.1032598 }
 }
 
+@article{jasny1962russian,
+  title={The Russian Economic Balance of National Income and the American Input-Output Analysis},
+  author={Jasny, N},
+  journal={Soviet Studies},
+  volume={14},
+  number={1},
+  pages={75--80},
+  year={1962}
+}
+
+Above is hostile but acknowledges Soviet origins of input-output (and National Accounts)
+
 https://en.m.wikipedia.org/wiki/Richard_Stone
+
+Richard Stone and Giovanna Saffi Stone, Social Accounting and Economic Models (1959) (Not seen)
+
+Nobel Prize Lecture - very useful summary
+
+https://www.nobelprize.org/uploads/2018/06/stone-lecture.pdf
 
 (The Commonwealth and international library. Social administration, training economics and production division) Carleen O'Loughlin, R Brown, G. Chandler and W. A. Davis (Auth.)-National Economic Accou.pdf
 
@@ -276,3 +304,23 @@ A. Vanoli-A History of National Accounting-IOS Press (2005).pdf
    volume =    {},
    url =       {http://gen.lib.rus.ec/book/index.php?md5=1f6b51d2aead24e8e906a23193cd0331 }
 }
+
+Above looks like good modern history.
+
+Paul Studenski-The income of nations__ Theory, measurement, and analysis_ past and present_ a study in applied economics and statistics-New York University Press (1958).pdf
+
+@book{book:875562,
+   title =     {The income of nations;: Theory, measurement, and analysis: past and present; a study in applied economics and statistics},
+   author =    {Paul Studenski},
+   publisher = {New York University Press},
+   isbn =      {},
+   year =      {1958},
+   series =    {},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=362b48f3acd8f965435d2b12250cbc3e }
+}
+
+Above is a comprehensive history. Section 1.8 p21-24 pdf 47-50 is important for widespread misunderstanding of Marx. Acknowledges that "Marxist" insistence on excluding services as unproductive was not what Marx actually said, but confuses the issue anyway. Bizarre considering how much Marx emphasized that labor power is a commodity. Shows importance of explicitly treating services (and also durable consumer goods as counterpoint). Includes useful correlation of Marx's terms  with modern terms but also some confusion worth clarifying. Appears to be without actual reference to v2! Also worth reading a lot of the rest.
+
+
