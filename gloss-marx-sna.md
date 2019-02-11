@@ -12,4 +12,24 @@ References are exclusively to C4 and C3.49 despite the fact that C3.49 refers to
 
 Highlights incomprehension of variable capital eliminating constant capital except for depreciation. That absurdity  is ignored below to give a more accurate correspondence that would probably be understood by users of current SNA whereas in 1958 they still had not acquired input-output tables.
 
+Glossary has entries for:
+
+Marx term
+: Studenski 1958 term
+
+Studenski term
+: Modern term (SNA 2008, OECD glossary, Input Output Handbook, IFRS)
+
+Modern term
+: Modern definition with reference
+
+Transitively this implies:
+
+Marx term
+: Modern definition with reference
+
+Markup for glossary entries not recognized in Github but should work better with pandoc.
+
+
+
 
