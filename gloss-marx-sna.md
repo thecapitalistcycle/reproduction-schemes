@@ -15,10 +15,10 @@ Highlights incomprehension of variable capital eliminating constant capital exce
 Glossary has entries for:
 
 Marx term
-: Studenski 1958 term
+:    Studenski 1958 term
 
 Studenski term
-: Modern term (SNA 2008, OECD glossary, Input Output Handbook, IFRS)
+:    Modern term (SNA 2008, OECD glossary, Input Output Handbook, IFRS)
 
 Modern term
 : Modern definition with reference
