@@ -78,7 +78,7 @@ direction required for understanding Maksakovsky's further development.
 
 Also as preparation for introducing multiple linear technologies ("activities") for actually modeling accumulation with increasing organic composition.
 
-[Marx on Activity Analysisl](quote-marx-activity.md)
+[Marx on Activity Analysis](quote-marx-activity.md)
 
 
 
