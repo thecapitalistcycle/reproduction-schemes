@@ -1,5 +1,11 @@
 # System of National Accounts - SNA
 
+## Updates
+
+https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_RM7_SNA_Developments.pdf
+
+https://unstats.un.org/unsd/nationalaccount/snanews.asp
+
 ## Input Output Tables
 
 Badly designed web site has lots of information. Click their show menu button fo tind it.
@@ -24,11 +30,13 @@ Turnover = productive consumption + consumption + accumulation
 
 Output + imports = intermediate consumption + final consumption + capital formation + exports
 
-Worth showing imports and exports even though set to 0 for now as will be needed later, for multiple local and regional as well as national tables with transport and trade margins. Will also need taxes and subsidies later.
+Worth showing imports and exports even though set to 0 for now as will be needed later, for multiple local and 
+regional as well as national tables with transport and trade margins. Will also need taxes and subsidies later.
 
 14.5 Both sides at purchasing prices so add above extras to left side:
 
-Output (at basic prices) + imports + trade margins + transport margins + taxes on products - subsidies on products = (at purchaser's prices)
+Output (at basic prices) + imports + trade margins + transport margins + taxes on products - subsidies on products = 
+(at purchaser's prices)
 
 intermediate consumption + final consumption + capital formation + exports
 
@@ -42,7 +50,7 @@ For depreciation will also OECD manual on fixed capital:
 
 https://unstats.un.org/unsd/nationalaccount/docs/OECD-Capital-e.pdf
 
-via list with lots of other useful stuff:
+via list of all publications with lots of other useful stuff:
 
 https://unstats.un.org/unsd/nationalaccount/pubsDB.asp?pType=4
 
@@ -51,6 +59,7 @@ Longer details in 2018 UN handbook below.
 ## Handbook on Supply, Use and Input-Output Tables with Extensions and Applications
 
 Here is a properly bookmarked 628 page, 7.3MB pdf of the final draft:
+
 ST/ESA/STAT/SER.F/74/Rev.1
 UNITED NATIONS PUBLICATION
 Sales No.:
@@ -74,6 +83,21 @@ SNA 2008
 Has live links to related documents. Intention to add more, both from these to others and back. (Preface xlvii)
 
 Downloadable spreadsheet.
+
+## Other Handbooks
+
+See list of 18 at above link for all publications.
+
+Includes useful explanations from earlier SNA 1993 including:
+
+ - "National Accounts: A Practical Introduction" with spreadsheets
+ - "Links between Business Accounting and National Accounting"
+
+Also 4 more recent 2017 series on short-term statistics needed to closely monitor busiess cycle following 2007-2009:
+
+ - "Handbook on Cyclical Composite Indicators FOR BUSINESS CYCLE ANALYSIS 2017 edition" (lists the other 3)
+ 
+ Ignore the two old and new handbooks on Input Output Tables. Use better copy with proper ToC bookmarks above.
 
 ## Anwar Shaikh
 
