@@ -144,6 +144,15 @@ https://ec.europa.eu/eurostat/web/international-statistical-cooperation-tools/ca
  
 ## Business Accounts
 
+From 4.106 in UN Handbook SUIT and IOT above:
+
+United Nations (2000): Links between Business Accounting and National Accounting. Studies in Methods.
+Series F, No. 76. Available at: http://unstats.un.org/unsd/publication/SeriesF/SeriesF_76E.pdf
+
+[Challenges of using Company Accounts based data in National Accounts](https://unstats.un.org/unsd/EconStatKB/KnowledgebaseArticle10437.aspx)
+
+Challenges of using Company Accounts based data in National Accounts by Sanjiv Mahajan June 2013.pdf (385.00 KB, 245 views)
+
 Link to IFRS, IASB, XBRL etc.
 
 Also business process models.
