@@ -37,6 +37,10 @@ https://www.ilo.org/global/statistics-and-databases/lang--en/index.htm
 
 https://www.ilo.org/stat/Publications/statistical-manuals/lang--en/index.htm
 
+_An integrated framework for wages statistics: A manual on methods_
+
+https://www.ilo.org/global/statistics-and-databases/WCMS_315657/lang--en/index.htm
+
 https://www.ilo.org/global/statistics-and-databases/publications/lang--en/index.htm
 
 https://www.ilo.org/ilostat/faces/ilostat-home/metadata
