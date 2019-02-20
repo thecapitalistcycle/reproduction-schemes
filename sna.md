@@ -23,11 +23,24 @@ tionship existing between the different macroeconomic statistical systems.
 
 https://unstats.un.org/unsd/nationalaccount/docs/mfsmcg.pdf
 
+https://ec.europa.eu/eurostat/web/international-statistical-cooperation-tools/capacity-building-tools/sdmx
+
 ## OECD Framework for Statistics on the Distribution of Household Income, Consumption and Wealth
 
 https://www.oecd-ilibrary.org/economics/framework-for-statistics-on-the-distribution-of-household-income-consumption-and-wealth_9789264194830-en
 
 Only individual chapters available. Got front 1-4 and back 13-16.
+
+## Labor
+
+https://www.ilo.org/global/statistics-and-databases/lang--en/index.htm
+
+https://www.ilo.org/stat/Publications/statistical-manuals/lang--en/index.htm
+
+https://www.ilo.org/global/statistics-and-databases/publications/lang--en/index.htm
+
+https://www.ilo.org/ilostat/faces/ilostat-home/metadata
+
 
 ## Input Output Tables
 
@@ -121,6 +134,9 @@ Also 4 more recent 2017 series on short-term statistics needed to closely monito
  - "Handbook on Cyclical Composite Indicators FOR BUSINESS CYCLE ANALYSIS 2017 edition" (lists the other 3)
  
 Ignore the two old and new handbooks on Input Output Tables. Use better copy with proper ToC bookmarks above.
+
+https://ec.europa.eu/eurostat/web/international-statistical-cooperation-tools/capactity-building-tools/tools-for-national-accounts
+
  
 ## Business Accounts
 
