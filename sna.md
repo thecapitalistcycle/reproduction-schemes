@@ -8,6 +8,10 @@ https://unstats.un.org/unsd/nationalaccount/snanews.asp
 
 ## Harmonization
 
+Slideshow summary including reference to all harmonized standards.
+
+https://www.eca.europa.eu/Lists/ECADocuments/WORKSHOP_ON_PUBLIC_SECTOR_ACCOUNTING/ECA_Workshop_on_public_sector_accounting_C_Dziobek.pdf
+
 _Monetary and Financial Statistics Manual and Compilation Guide_
 
 The methodology and concepts described in the Manual are consistent with other macroeconomic data sets,
