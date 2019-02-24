@@ -1,5 +1,31 @@
 # System of National Accounts - SNA
 
+## SNA 2008
+
+
+https://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf
+
+Draft also available as online html. Get for extracts:
+
+https://synagonism.net/standard/economy/un.sna.2008.html
+
+Book re previous 1993 version:
+
+(Recent Economic Thought Series 47) John W. Kendrick (auth.), John W. Kendrick (eds.)-The New System of National Accounts-Springer Netherlands (1996).pdf
+
+@book{book:1069918,
+   title =     {The New System of National Accounts},
+   author =    {John W. Kendrick (auth.), John W. Kendrick (eds.)},
+   publisher = {Springer Netherlands},
+   isbn =      {978-94-010-7301-1,978-94-009-1798-9},
+   year =      {1996},
+   series =    {Recent Economic Thought Series 47},
+   edition =   {1},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=3750fb0d1622a6e9f8d9a1075812f203 }
+}
+
+
 ## Updates
 
 https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_RM7_SNA_Developments.pdf
@@ -29,7 +55,54 @@ https://ec.europa.eu/eurostat/web/international-statistical-cooperation-tools/ca
 
 https://www.oecd-ilibrary.org/economics/framework-for-statistics-on-the-distribution-of-household-income-consumption-and-wealth_9789264194830-en
 
-Only individual chapters available. Got front 1-4 and back 13-16.
+Only individual chapters available free from OECD.
+
+Also at Library Genesis:
+
+http://gen.lib.rus.ec/search.php?req=OECD+wealth&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+OECD-OECD framework for statistics on the distribution of household income, consumption and wealth-OECD (2013).pdf
+
+@book{book:2142380,
+   title =     {OECD framework for statistics on the distribution of household income, consumption and wealth},
+   author =    {OECD},
+   publisher = {OECD},
+   isbn =      {9789264194823,9264194827,9789264194830,9264194835},
+   year =      {2013},
+   series =    {},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=b8348f8f2f5db8a925ff473acf699bfc }
+}
+
+OECD-OECD guidelines for micro statistics on household wealth-OECD (2013).pdf
+
+@book{book:2142668,
+   title =     {OECD guidelines for micro statistics on household wealth},
+   author =    {OECD},
+   publisher = {OECD},
+   isbn =      {9789264194861,926419486X,9789264194878,9264194878},
+   year =      {2013},
+   series =    {},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=53979132acf9aff9cc5b4ced665e9c31 }
+}
+
+(OECD tax policy studies.) coll.-The Role and Design of Net Wealth Taxes in the OECD-Organization for Economic Cooperation and Development (2018).pdf
+
+@book{book:2281954,
+   title =     {The Role and Design of Net Wealth Taxes in the OECD},
+   author =    {coll.},
+   publisher = {Organization for Economic Cooperation and Development},
+   isbn =      {9789264290303,9264290303},
+   year =      {2018},
+   series =    {OECD tax policy studies.},
+   edition =   {},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=cccbf9aeaaf6de7b3b9355911e97ac11 }
+}
+
 
 ## Labor
 
@@ -53,12 +126,6 @@ Badly designed web site has lots of information. Click their show menu button fo
 https://www.iioa.org
 
 Shorter explanation in UN SNA 2008:
-
-https://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf
-
-Draft also available as online html. Get for extracts:
-
-https://synagonism.net/standard/economy/un.sna.2008.html
 
 Chapter 14: The supply and use tables and goods and services account
 
@@ -144,7 +211,7 @@ https://ec.europa.eu/eurostat/web/international-statistical-cooperation-tools/ca
  
 ## Business Accounts
 
-From 4.106 in UN Handbook SUIT and IOT above:
+From 4.106 in UN Handbook SUT and IOT above:
 
 United Nations (2000): Links between Business Accounting and National Accounting. Studies in Methods.
 Series F, No. 76. Available at: http://unstats.un.org/unsd/publication/SeriesF/SeriesF_76E.pdf
